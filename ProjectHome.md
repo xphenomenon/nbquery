@@ -1,0 +1,1 @@
+Get the IP address(es) for a given workstation using the NetBIOS Name Query service.
